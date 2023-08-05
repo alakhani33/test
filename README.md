@@ -1,4 +1,8 @@
 # test
+virtualenv ~/.venv
+source ~/.venv/bin/activate
+
+create files: hello.py, Makefile, README, requirements.txt, test_hello.py
 
 make all
 
